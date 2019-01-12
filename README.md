@@ -22,4 +22,4 @@
 
 9. After the user wins/loses the game should automatically choose another word and make the user play it.
 
-![Demo}(WordGuess.jpg)
+![Demo](WordGuess.jpg)
